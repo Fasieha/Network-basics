@@ -1,9 +1,9 @@
-# Network-basics
+# Basic Networking Simulation
 Got it! Here's a rewritten `README.md` in my own words, based on the structure and content you wanted, but without copying it directly:
 
 ---
 
-# 🔌 Basic\_Networking
+# 🔌 Basic\_Networking Simulation
 
 This repository features beginner-friendly networking simulations built with **Cisco Packet Tracer**. It’s designed for anyone learning core networking concepts through hands-on practice.
 
