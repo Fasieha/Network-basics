@@ -60,4 +60,4 @@ It’s a great example of how devices communicate within and between networks, a
 
 ---
 
-Let me know if you’d like to expand the project with DHCP, VLANs, or routing protocols!
+
