@@ -1,7 +1,3 @@
-# Basic Networking Simulation
-Got it! Here's a rewritten `README.md` in my own words, based on the structure and content you wanted, but without copying it directly:
-
----
 
 # 🔌 Basic\_Networking Simulation
 
